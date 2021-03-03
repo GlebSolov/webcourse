@@ -1,6 +1,6 @@
 # Система информации об автобусных рейсах и билетах
 
-![Alt text](Переходы на сайте.png?raw=true "site_scheme")
+![Alt text](visual.png?raw=true "visual_scheme")
 
 **Use Cases для Web-приложения**
 
